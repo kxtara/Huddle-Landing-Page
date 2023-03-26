@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-!![ScreenShot](https://raw.github.com/kxtara/Huddle-Landing-page/main/images/mobile.jpg)
+![ScreenShot](https://raw.github.com/kxtara/Huddle-Landing-page/main/images/mobile.jpg)
 
 ### Links
 
 - Solution URL: [()]
-- Live Site URL: [()]
+- Live Site URL: [(https://kxtara.github.io/Huddle-Landing-Page/)]
 
 ## My process
 
