@@ -91,7 +91,8 @@ a:hover{
 
 @media only screen and (max-width:1439px) and (min-width:371px) {
     body{
-        background-repeat: repeat-x;
+        background-repeat: no-repeat;
+        background-size: 100%;
     }
 
     #mockup{
